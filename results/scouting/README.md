@@ -1,1 +1,1 @@
-# OmicsAgent
+# Results for scouting
