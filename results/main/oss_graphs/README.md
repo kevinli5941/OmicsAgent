@@ -1,1 +1,1 @@
-# Data Collection
+# Loss Graphs
